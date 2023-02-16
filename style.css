@@ -96,9 +96,10 @@ img{
   justify-content: space-evenly;
 }
 
-.display-flex h3{
+.display-flex h2{
   font-weight: 700;
   font-size: 17px;
+  color: hsl(229, 23%, 23%);
 }
 
 .display-flex span{
