@@ -60,6 +60,12 @@ img{
   margin-top: 3em;
 }
 
+.card-body h1{
+  color: hsl(229, 23%, 23%);
+  font-size: 20px;
+  /* line-height: 2em; */
+}
+
 .card-body h3{
   color: hsl(229, 23%, 23%);
   font-size: 17px;
